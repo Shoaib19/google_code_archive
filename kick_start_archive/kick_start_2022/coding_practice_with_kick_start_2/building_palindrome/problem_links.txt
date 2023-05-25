@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=PThnKCZ1ZDI&t=306s  --> View problem and solution walkthrough video
+https://en.wikipedia.org/wiki/Factorial  --> Factorial
+https://en.wikipedia.org/wiki/Prefix_sum --> Prefix sum
