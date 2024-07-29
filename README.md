@@ -11,7 +11,7 @@
     <li><a href="#license">License</a></li>
   </ul>
   <h2 id="introduction">Introduction</h2>
-  <p>Google coding competitions are a series of online programming contests hosted by Google. They are open to all programmers and consist of various challenging problems that test your coding skills and problem-solving abilities. This repository aims to provide a curated collection of  same coding questions as google is about to shutdown competetions.</p>
+  <p>Welcome to the repository of Google Coding Competitions problems. This repository contains problems from various Google coding competitions, such as Google Code Jam and Google Kick Start, gathered for learning and practice purposes.</p>
   <p>(NOTE: this repo only contains questions not solutions and only can only use for learning purposes 📚)</p>
   <h2 id="question-list">Question List</h2>
   <p>The following coding competetion(<i>archive</i>) are available in this repository:</p>
@@ -37,6 +37,10 @@
     <li>Repeat steps 3-7 for other questions in the repository.</li>
     <li>Please do not submit your solutions in this repository</li>
   </ol>
+  
+  <p>Navigate through the folders to find problems from different competitions and years.</p>
+  <p>Happy coding!</p>
+
   <h2 id="contributing">Contributing</h2>
   <p>If you would like to contribute to this repository, please follow these guidelines:</p>
   <ol>
@@ -52,7 +56,8 @@
     <li>Open a pull request on the original repository, describing your changes and their purpose.</li>
     <li>Wait for the maintainers to review your pull request and merge it if deemed appropriate.</li>
   </ol>
+
   <h2 id="license">License</h2>
-  <p>This repository is licensed under the <a href="LICENSE">MIT License</a>. You are free to use, modify, and distribute the contents of this repository, as long as you include the original license file in your distribution.</p>
+  <p>This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). You are free to use the problems for personal study and practice but not for any commercial purposes.</p>
 </body>
 </html>
