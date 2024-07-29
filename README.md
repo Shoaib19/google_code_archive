@@ -8,7 +8,8 @@
     <li><a href="#question-list">Question List</a></li>
     <li><a href="#how-to-use">How to Use</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#disclaimer">Disclaimer</a></li>
+    <li><a href="#license">License</a>
   </ul>
   <h2 id="introduction">Introduction</h2>
   <p>Welcome to the repository of Google Coding Competitions problems. This repository contains problems from various Google coding competitions, such as Google Code Jam and Google Kick Start, gathered for learning and practice purposes.</p>
@@ -56,6 +57,10 @@
     <li>Open a pull request on the original repository, describing your changes and their purpose.</li>
     <li>Wait for the maintainers to review your pull request and merge it if deemed appropriate.</li>
   </ol>
+
+  <h2 id="disclaimer">Disclaimer</h2>
+  <p>This repository contains coding problems originally provided by Google, which are no longer publicly available. These problems were made available for general public use.</p>
+
 
   <h2 id="license">License</h2>
   <p>This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). You are free to use the problems for personal study and practice but not for any commercial purposes.</p>
